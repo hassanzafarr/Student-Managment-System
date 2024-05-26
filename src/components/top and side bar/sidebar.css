@@ -1,0 +1,29 @@
+.side{
+    background-color: #233a52;
+    width: 220px;
+    /* margin-left: 10px; */
+    margin-top: 0px;
+    float: left;
+
+    
+}
+
+.prof{
+    /* background-color: chocolate; */
+    border-bottom: 1px solid #fff;
+    /* border-bottom: cornsilk; */
+    /* padding-top: 10px; */
+    /* margin-top: 300px; */
+}
+
+.menu{
+    background-color: #233a52;
+    width:220px;
+    /* height: 400px; */
+    height: 513px;
+    color: white;
+}
+
+.menuitem{
+    margin-top: 10px !important;
+}
